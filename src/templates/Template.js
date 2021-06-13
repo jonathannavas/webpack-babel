@@ -26,6 +26,7 @@ const Template = async () => {
             <li>${data.location.country}</li>
           </ul>
         </div>
+        
         <div class="card_social">
           <a href="https://twitter.com/jgnavas95">
             <img src="${twitter}" />
